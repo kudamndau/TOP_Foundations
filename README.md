@@ -1,1 +1,2 @@
 # TOP_Foundations
+This submodule repo is a collection of all my practice files and projects that I will be doing as I learn the foundations of programming on The Odin Project. All the files and projects have been organised into directories according to the area of study for easier navigation plus because it's just who I am. 
