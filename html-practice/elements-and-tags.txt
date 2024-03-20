@@ -1,0 +1,28 @@
+# Lesson 1
+HTML (HyperText Markup Language)
+defines the structure and content of web pages.
+uses HTMLelements to create paragraphs, headings, lists, images and links that make up a typical webpage
+WHAT ARE HTML TAGS?
+a tags is keyword enclosed in angle brackets <>.
+tags wrap around content on HTML pages as a pair of tags 
+one of the pair of tags is the opening tag found at the starting end of the content and the other one is the closing tag found at the final end of the content
+opening tags <> indicate to the browser the beginning of an HTML element.
+closing tags </> indicate to the browser where an element ends (closing tags have a forward slash before the keyword)
+
+WHAT ARE HTML ELEMENTS?
+elements are pieces of content or containers for content
+the tags tell the browser what content the element contains 
+the browser uses the info to determine how to intepret and format the content
+this is an example of how a typical element looks like its a paragraph element:
+<p>some text content</p>
+<p> is the opening tag
+"some text content" represents content wrapped within the opening and closing tags
+</p> is the closing tag.
+these are the 3 parts of an element
+HTML has predefined tags that you can use to create all sorts of elements
+it's important to use the correct tags for content to for search engine optimisation and accessibility to users who use assistive tech
+using correct elements for content is called semantic HTML
+
+VOID ELEMENTS
+some HTML elements do not have closing tags and only have a single tag e.g <br>, <img>
+they are known as void elements because they are void of any content, without a closing tag they cannot wrap around content as other tags do.
